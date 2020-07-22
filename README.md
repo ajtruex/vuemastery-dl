@@ -20,3 +20,5 @@ Videos not yet added:
 
 [Build a Gmail Clone with Vue 3](https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3/tour-the-project)
 
+Yay
+
