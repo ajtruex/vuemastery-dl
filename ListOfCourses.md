@@ -1,3 +1,5 @@
+## Table of Contents ##
+
 [intro-to-vue-js/vue-instance](https://player.vimeo.com/video/258707456?autoplay=1&app_id=122963)
 
 [intro-to-vue-js/attribute-binding](https://player.vimeo.com/video/258874670?autoplay=1&app_id=122963)
